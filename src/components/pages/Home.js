@@ -7,11 +7,15 @@ import SlideShow from '../SlideShow';
 
 function Home() {
   return (
-    <div>
+    <div >
+      
       <SlideShow />
       <Cards />
+      
     </div>
   )
 };
 
 export default Home;
+
+
