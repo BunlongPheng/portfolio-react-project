@@ -8,7 +8,7 @@ function SlideShow() {
   return (
     <div>
       <div className='slideShow-container'>
-        <video src='/videos/video-1.mp4' autoPlay loop muted />
+        <video src="./videos/video-1.mp4" autoPlay loop muted />
         <h1>Snow Vacations</h1>
         <p>What are you waiting for?</p>
         <div className="slideShow-btns">
